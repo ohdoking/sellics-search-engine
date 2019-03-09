@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/search-service/searchservice.iml" filepath="$PROJECT_DIR$/search-service/searchservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sellics-search-engine.iml" filepath="$PROJECT_DIR$/sellics-search-engine.iml" />
+    </modules>
+  </component>
+</project>
