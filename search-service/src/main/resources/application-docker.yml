@@ -1,0 +1,23 @@
+# ----------------------------------------
+# REST PROPERTIES
+# ----------------------------------------
+spring:
+  data:
+    rest:
+      basePath: /api/v1/search
+      defaultPageSize: 10
+      maxPageSize: 100
+
+---
+# ----------------------------------------
+# MongoDB PROPERTIES
+# ----------------------------------------
+spring:
+  data:
+    mongodb:
+      host: mongodb
+      port: 27017
+      authentication-database: admin
+      username: ohdoking
+      password: 1234
+      database: search
